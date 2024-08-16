@@ -16,3 +16,4 @@ google-generativeai
 langchain_huggingface
 sentence-transformers
 langchain_google_genai
+faiss-cpu
